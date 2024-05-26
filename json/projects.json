@@ -1,0 +1,23 @@
+[
+    {
+        title: "nitrous-oxi.de",
+        link: "https://nitrous-oxi.de",
+        description: "Open source OSINT tool with an exposed RESTful API and web search panel written for research purposes.",
+        imageUrl: "https://avatars1.githubusercontent.com/u/156565097",
+        language: "TypeScript / Python"
+    },
+    {
+        title: "yoshi.rest",
+        link: "https://yoshi.rest",
+        description: "Competitive fitness & lifestyle analytical platform with a web based dashboard and social integrations.",
+        imageUrl: "https://avatars1.githubusercontent.com/u/168873145",
+        language: "TypeScript"
+    },
+    {
+        title: "roxipr.in",
+        link: "https://roxipr.in",
+        description: `Block game software marketplace featuring both free to use and premium software.`,
+        imageUrl: "https://avatars.githubusercontent.com/u/132955252",
+        language: "TypeScript"
+    }
+]
