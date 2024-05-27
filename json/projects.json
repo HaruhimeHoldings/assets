@@ -1,5 +1,4 @@
-[
-    {
+{
         title: "nitrous-oxi.de",
         link: "https://nitrous-oxi.de",
         description: "Open source OSINT tool with an exposed RESTful API and web search panel written for research purposes.",
@@ -18,6 +17,13 @@
         link: "https://roxipr.in",
         description: `Block game software marketplace featuring both free to use and premium software.`,
         imageUrl: "https://avatars.githubusercontent.com/u/132955252",
+        language: "TypeScript / C++ / Java"
+    },
+    {
+        title: "pivotpoint.social",
+        link: "https://pivotpoint.social",
+        description: "Social media marketing platform with a machine learning powered core and a beautiful analytics dashboard.",
+        imageUrl: "https://avatars.githubusercontent.com/u/170899890",
         language: "TypeScript"
     }
-]
+}
