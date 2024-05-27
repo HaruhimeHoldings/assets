@@ -1,30 +1,38 @@
 [
   {
     "title": "nitrous-oxi.de",
-    "link": "https://nitrous-oxi.de",
+    "code": "https://github.com/nitroussl",
+    "projectLink": "https://nitrous-oxi.de",
     "description": "Open source OSINT tool with an exposed RESTful API and web search panel written for research purposes.",
-    "imageUrl": "https://avatars1.githubusercontent.com/u/156565097",
-    "language": "TypeScript / Python"
+    "imgSrc": "https://avatars1.githubusercontent.com/u/156565097",
+    "tech": ["TypeScript", "Python"],
+    "modalContent": "<p></p>"
   },
   {
     "title": "yoshi.rest",
-    "link": "https://yoshi.rest",
+    "code": "https://github.com/yoshirest",
+    "projectLink": "https://yoshi.rest",
     "description": "Competitive fitness & lifestyle analytical platform with a web based dashboard and social integrations.",
-    "imageUrl": "https://avatars1.githubusercontent.com/u/168873145",
-    "language": "TypeScript"
+    "imgSrc": "https://avatars1.githubusercontent.com/u/168873145",
+    "tech": ["TypeScript"],
+    "modalContent": "<p></p>"
   },
   {
     "title": "roxipr.in",
-    "link": "https://roxipr.in",
+    "code": "https://github.com/roxiprin",
+    "projectLink": "https://roxipr.in",
     "description": "Block game software marketplace featuring both free to use and premium software; intending to serve as a historic archieve for some software lost to time.",
-    "imageUrl": "https://avatars.githubusercontent.com/u/132955252",
-    "language": "TypeScript / C++ / Java"
+    "imgSrc": "https://avatars.githubusercontent.com/u/132955252",
+    "tech": ["TypeScript", "Java", "C++"],
+    "modalContent": "<p></p>"
   },
   {
     "title": "pivotpoint.social",
-    "link": "https://pivotpoint.social",
+    "code": "https://github.com/pivotpointsocial",
+    "projectLink": "https://pivotpoint.social",
     "description": "Social media marketing platform with a machine learning powered core and a beautiful analytics dashboard.",
-    "imageUrl": "https://avatars.githubusercontent.com/u/170899890",
-    "language": "TypeScript"
+    "imgSrc": "https://avatars.githubusercontent.com/u/170899890",
+    "tech": ["TypeScript"],
+    "modalContent": "<p></p>"
   }
 ]
