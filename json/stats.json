@@ -1,0 +1,7 @@
+{
+  "programmingLanguages": ["TypeScript", "Javascript", "Kotlin", "Java", "Python", "HTML", "CSS", "PHP", "C++", "Go", "V"],
+  "frameworks" : ["TailwindCSS", "Express", "Fastify", "NextJS", "React", "Flask"],
+  "databases" : ["PostgreSQL", "MongoDB", "MySQL"],
+  "tools" : ["PHPMyAdmin", "JetBrains", "Github", "Notion", "Zed"],
+  "cloudServices" : ["Google Cloud", "DigitalOcean", "Azure", "AWS"]
+}
