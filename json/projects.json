@@ -3,16 +3,16 @@
     "title": "nitrous-oxi.de",
     "code": "https://github.com/nitroussl",
     "projectLink": "https://nitrous-oxi.de",
-    "description": "Open source OSINT tool with an exposed RESTful API and web search panel written for research purposes.",
+    "description": "An open-source OSINT tool featuring an exposed RESTful API and a web-based search panel, designed for research purposes.",
     "imgSrc": "https://avatars1.githubusercontent.com/u/156565097",
     "tech": ["TypeScript", "Python"],
-    "modalContent": "This project features an open source REST API, written in TypeScript using Fastify; and an open source search panel written using TypeScript, NextJS, React, and TailwindCSS. This project was done as research to explore the world of Open Source Intelligence (OSINT), and it stores/retains zero user data."
+    "modalContent": "This project is a comprehensive open-source tool for Open Source Intelligence (OSINT). It includes a REST API built with TypeScript and Fastify, alongside a search panel crafted using NextJS, React, and TailwindCSS. As part of a research initiative, this tool aims to explore the potentials of OSINT while ensuring no user data is stored or retained."
   },
   {
     "title": "yoshi.rest",
     "code": "https://github.com/yoshirest",
     "projectLink": "https://yoshi.rest",
-    "description": "Competitive fitness & lifestyle analytical platform with a web based dashboard and social integrations.",
+    "description": "A cutting-edge fitness and lifestyle analytics platform that features a web-based dashboard and social integrations to enhance user experience.",
     "imgSrc": "https://avatars1.githubusercontent.com/u/168873145",
     "tech": ["TypeScript"],
     "modalContent": ""
@@ -21,7 +21,7 @@
     "title": "roxipr.in",
     "code": "https://github.com/roxiprin",
     "projectLink": "https://roxipr.in",
-    "description": "Block game software marketplace featuring both free to use and premium software, acting as an archieve for some pieces of legacy software.",
+    "description": "A block game software marketplace that offers both free and premium software, serving as an archive for legacy software.",
     "imgSrc": "https://avatars.githubusercontent.com/u/132955252",
     "tech": ["TypeScript", "Java", "C++"],
     "modalContent": ""
@@ -30,7 +30,7 @@
     "title": "pivotpoint.social",
     "code": "https://github.com/pivotpointsocial",
     "projectLink": "https://pivotpoint.social",
-    "description": "Social media marketing platform with a machine learning powered core and a beautiful analytics dashboard.",
+    "description": "A sophisticated social media marketing platform powered by machine learning, featuring a visually appealing analytics dashboard.",
     "imgSrc": "https://avatars.githubusercontent.com/u/170899890",
     "tech": ["TypeScript"],
     "modalContent": ""
@@ -39,9 +39,9 @@
     "title": "yoshi.fit",
     "code": "https://yoshi.social/",
     "projectLink": "https://yoshi.fit",
-    "description": "Experimental street and gymware brand providing high quality garments and supplements at a reasonable price point.",
+    "description": "An experimental street and gym wear brand offering high-quality garments and supplements at an accessible price point.",
     "imgSrc": "https://avatars.githubusercontent.com/u/170899890",
     "tech": [""],
-    "modalContent":""
+    "modalContent": ""
   }
 ]
