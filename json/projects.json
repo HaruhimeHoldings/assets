@@ -6,7 +6,7 @@
     "description": "Open source OSINT tool with an exposed RESTful API and web search panel written for research purposes.",
     "imgSrc": "https://avatars1.githubusercontent.com/u/156565097",
     "tech": ["TypeScript", "Python"],
-    "modalContent": "<p></p>"
+    "modalContent": "This project features an open source REST API, written in TypeScript using Fastify; and an open source search panel written using TypeScript, NextJS, React, and TailwindCSS. This project was done as research to explore the world of Open Source Intelligence (OSINT), and it stores/retains zero user data."
   },
   {
     "title": "yoshi.rest",
@@ -15,16 +15,16 @@
     "description": "Competitive fitness & lifestyle analytical platform with a web based dashboard and social integrations.",
     "imgSrc": "https://avatars1.githubusercontent.com/u/168873145",
     "tech": ["TypeScript"],
-    "modalContent": "<p></p>"
+    "modalContent": ""
   },
   {
     "title": "roxipr.in",
     "code": "https://github.com/roxiprin",
     "projectLink": "https://roxipr.in",
-    "description": "Block game software marketplace featuring both free to use and premium software; intending to serve as a historic archieve for some software lost to time.",
+    "description": "Block game software marketplace featuring both free to use and premium software.",
     "imgSrc": "https://avatars.githubusercontent.com/u/132955252",
     "tech": ["TypeScript", "Java", "C++"],
-    "modalContent": "<p></p>"
+    "modalContent": ""
   },
   {
     "title": "pivotpoint.social",
@@ -33,15 +33,15 @@
     "description": "Social media marketing platform with a machine learning powered core and a beautiful analytics dashboard.",
     "imgSrc": "https://avatars.githubusercontent.com/u/170899890",
     "tech": ["TypeScript"],
-    "modalContent": "<p></p>"
+    "modalContent": ""
   },
   {
     "title": "yoshi.fit",
     "code": "https://yoshi.social/",
     "projectLink": "https://yoshi.fit",
-    "description": "Experimental street and gymware brand providing high quality garments and supplments at a reasonable price point.",
+    "description": "Experimental street and gymware brand providing high quality garments and supplements at a reasonable price point.",
     "imgSrc": "https://avatars.githubusercontent.com/u/170899890",
-    "tech": ["Shopify"],
-    "modalContent":"soon"
+    "tech": [""],
+    "modalContent":""
   }
 ]
