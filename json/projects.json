@@ -9,33 +9,6 @@
     "modalContent": "This project is a comprehensive open-source tool for Open Source Intelligence (OSINT). It includes a REST API built with TypeScript and Fastify, alongside a search panel crafted using NextJS, React, and TailwindCSS. As part of a research initiative, this tool aims to explore the potentials of OSINT while ensuring no user data is stored or retained."
   },
   {
-    "title": "yoshi.rest",
-    "code": "https://github.com/yoshirest",
-    "projectLink": "https://yoshi.rest",
-    "description": "A cutting-edge fitness and lifestyle analytics platform that features a web-based dashboard and social integrations to enhance user experience.",
-    "imgSrc": "https://avatars1.githubusercontent.com/u/168873145",
-    "tech": ["TypeScript"],
-    "modalContent": ""
-  },
-  {
-    "title": "roxipr.in",
-    "code": "https://github.com/roxiprin",
-    "projectLink": "https://roxipr.in",
-    "description": "A block game software marketplace that offers both free and premium software, serving as an archive for legacy software.",
-    "imgSrc": "https://avatars.githubusercontent.com/u/132955252",
-    "tech": ["TypeScript", "Java", "C++"],
-    "modalContent": ""
-  },
-  {
-    "title": "pivotpoint.social",
-    "code": "https://github.com/pivotpointsocial",
-    "projectLink": "https://pivotpoint.social",
-    "description": "A sophisticated social media marketing platform powered by machine learning, featuring a visually appealing analytics dashboard.",
-    "imgSrc": "https://avatars.githubusercontent.com/u/170899890",
-    "tech": ["TypeScript"],
-    "modalContent": ""
-  },
-  {
     "title": "yoshi.fit",
     "code": "https://yoshi.social/",
     "projectLink": "https://yoshi.fit",
