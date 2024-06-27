@@ -7,14 +7,5 @@
     "imgSrc": "https://avatars1.githubusercontent.com/u/156565097",
     "tech": ["TypeScript", "Python"],
     "modalContent": "This project is a comprehensive open-source tool for Open Source Intelligence (OSINT). It includes a REST API built with TypeScript and Fastify, alongside a search panel crafted using NextJS, React, and TailwindCSS. As part of a research initiative, this tool aims to explore the potentials of OSINT while ensuring no user data is stored or retained."
-  },
-  {
-    "title": "yoshi.fit",
-    "code": "https://yoshi.social/",
-    "projectLink": "https://yoshi.fit",
-    "description": "An experimental street and gym wear brand offering high-quality garments and supplements at an accessible price point.",
-    "imgSrc": "https://avatars.githubusercontent.com/u/170899890",
-    "tech": [""],
-    "modalContent": ""
   }
 ]
